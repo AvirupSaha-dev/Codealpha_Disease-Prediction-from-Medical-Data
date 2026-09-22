@@ -5,7 +5,7 @@ MediPredict is a machine learning-based web application that predicts the possib
 ## 🚀 Live Demo
 
 🔗 **Deployed Application:**  
-https://YOUR-APP-NAME.streamlit.app
+https://codealphadisease-prediction-from-medical-data-h4knzrpwcxfdnz6e.streamlit.app/
 
 > The live link will be updated after deployment.
 
